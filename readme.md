@@ -1,4 +1,6 @@
 使用方法：
+npm i time-conversion
+
 import format from 'time-conversion'
 alert(format('YYYY-MM-DD hh:mm:ss',1551587677836))
 第一个参数：（时间格式）必填

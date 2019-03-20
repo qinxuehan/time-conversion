@@ -1,0 +1,39 @@
+{
+  "_from": "time-conversion",
+  "_id": "time-conversion@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-44K4vwvyylSykIMP9x8cA5uyptUULwIRqFdjqwEssrML0SBP61AtcqQcEHG3KYgYsDv8ZSUQiOjAN/Tj+tsCbA==",
+  "_location": "/time-conversion",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "time-conversion",
+    "name": "time-conversion",
+    "escapedName": "time-conversion",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/time-conversion/-/time-conversion-1.0.1.tgz",
+  "_shasum": "c63f5516c466cdb21c2f4ac578fbacd27d927805",
+  "_spec": "time-conversion",
+  "_where": "D:\\project\\demo",
+  "author": {
+    "name": "秦雪含"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "使用方法：\r import format from 'date-format-change'\r alert(format('YYYY-MM-DD hh:mm:ss',1551587677836))\r 第一个参数：（时间格式）必填\r 第二个参数：（时间戳）不传时默认获取当前时间",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "time-conversion",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
